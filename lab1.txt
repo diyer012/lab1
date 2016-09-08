@@ -11,4 +11,8 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
 - From the command prompt or desktop client, pull the change you made online down to your machine
 - Make 1 more change to this file on your computer, then make another commit and push it to GitHub again
 - Submit a link to your Lab 1 repository on Blackboard; there should be at least 3 commits total.  The first will show this file being pushed.  The second will show the change you made online.  The 3rd will show the change you made to this file on your computer.
+<<<<<<< HEAD
 - Changes made on PC for third commit
+=======
+Making changes for second commit. This is great!!
+>>>>>>> cc7b5f5687fb80abd897683c30ce5b48f3445dec
